@@ -1,0 +1,1 @@
+El diagrama representa ls cambios de presión y volumen que experimenta un sistema.  En el ciclo completo ABCA, el sistema:!recibe trabajo y entrega calor!entrega trabajo y no intercambia calor!recibe trabajo y no intercambia calor!entrega trabajo y recibe calor!entrega trabajo y entrega calor!recibe trabajo y recibe calor!

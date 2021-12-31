@@ -1,0 +1,1 @@
+Un cubo de arista L está a una temperatura absoluta T.  En esas condiciones emite calor por radiación con una potencia P.  Cómo será la potencia irradiada por otro cubo, cuya arista fuese la mitad y la temperatura el doble?  Considere que ambos cubos están hechos del mismo material.!32P!P!4P!P/4!2P!P/2!

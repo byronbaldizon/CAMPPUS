@@ -1,0 +1,3 @@
+La figura muestra la gráfica de posición en función del tiempo de un cuerpo que parte del reposo desde el origen (en t=0).  Calcule
+a)la velocidad del cuerpo a los 5 segundos.
+b)la velocidad media entre 0 y 10 segundos.!v(5s)= 30m/s, Vmedia= 5 m/s!v(5s)= 25m/s, Vmedia= 15 m/s!v(5s)= 20m/s, Vmedia= 15 m/s!v(5s)= 20m/s, Vmedia= 10 m/s!v(5s)= 10m/s, Vmedia= 5 m/s!v(5s)= 20m/s, Vmedia= 0 m/s!

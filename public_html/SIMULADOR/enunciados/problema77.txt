@@ -1,0 +1,1 @@
+Un calefactor tiene su superficie a una temperatura de 600K y se halla en un ambiente de 200K.  Si Pe es la potencia radiante emitida y Pr es la potencia radiante recibida, ¿cuál de las afirmaciones siguientes es la correcta?!Pe=2Pr!Pe=3Pr!Pe=27Pr!Pe=81Pr!Pe=9Pr!Pe=300Pr!

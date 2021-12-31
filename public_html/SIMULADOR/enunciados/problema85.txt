@@ -1,0 +1,1 @@
+Al ir desde el estado "a" al "b" por el camino "acb" un sistema absorbe una cantidad de calor igual a 80 Joule y realiza trabajo de 30 Joule.  Si evolucionara a lo largo del camino "adb", realizando un trabajo de 10 Joule, intercambiaría una cantidad de calor igual a:!60 J!30 J!45 J!-60 J!-30 J!-45 J!

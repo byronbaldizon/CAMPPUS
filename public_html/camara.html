@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--FAVICON-->  
+		<link  rel="icon"   href="./img/iconoLechuza.ico" type="image/ico" />
+		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<title>CAMPPUS</title>
+
+		<!-- Google font -->
+		<link href="https://fonts.googleapis.com/css?family=Lato:700%7CMontserrat:400,600" rel="stylesheet">
+
+		<!-- Bootstrap -->
+		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
+
+		<!-- Font Awesome Icon -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+
+		<!-- Custom stlylesheet -->
+		<link type="text/css" rel="stylesheet" href="css/style.css"/>
+
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+		<!-- GOOGLE FONTS-->
+		<!-- Anton --><!--font-family: 'Anton', sans-serif;-->
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script&display=swap" rel="stylesheet"> 
+
+		<!-- Dancing script --><!--font-family: 'Dancing Script', cursive;-->
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet"> 
+
+		<style>
+			body{
+				background-color: black;
+				padding: 0;
+				margin: 0;
+				color:white;
+			}
+			#logoPrincipal{
+				font-family: 'Anton', sans-serif;
+				font-size: 48px;
+				font-weight: bold;
+				color:#35A6F0;
+			}
+			#slogan{
+				font-family: 'Dancing Script', cursive;
+				font-size: 38px;
+				color:white;
+
+			}
+			header{
+				padding-top: 50px;
+			}
+		</style>	
+
+
+    </head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<center><h1 style="color:#666AFF">SISTEMA DE TELEMETR&Iacute;A CON VIDEO STREAMING</h1></center>
+			</div>
+			<div class="row">
+				<div class="col-sm-3 text-center" style="width:33%">	
+					<h3 style="color:#77DD77">CAMERA:TPLINK NC260</h3>
+					<h4 style="color:yellow;font-size: 10px">SOURCE: https://rtsp.me/embed/zyRKhE6D/</h4>
+				</div>
+				<div class="col-sm-3 text-center" style="width:33%">	
+					<h3 style="color:#DFA995">CAMERA:TPLINK NC260</h3>
+					<h4 style="color:yellow;font-size: 10px">SOURCE: http://admin:8612144@192.168.0.19:8080/stream/video/mjpeg</h4>
+				</div>
+				<div class="col-sm-3 text-center" style="width:33%">	
+					<h3 style="color:#DFA995">CAMERA:TPLINK NC260</h3>
+					<h4 style="color:yellow;font-size: 10px">SOURCE: http://admin:8612144@181.44.80.134:8080/stream/video/mjpeg</h4>
+				</div>
+			</div>
+
+			
+			<div class="row">
+				<div class="col-sm-3" style="width:33%">	
+					<iframe src="https://rtsp.me/embed/zyRKhE6D/"frameborder="0" allowfullscreen></iframe>
+				</div>	
+				<div class="col-sm-3" style="width:33%">	
+					<iframe src="http://admin:8612144@192.168.0.19:8080/stream/video/mjpeg"></iframe>	
+				</div>	
+				<div class="col-sm-3" style="width:33%">	
+					<iframe src="http://admin:8612144@181.44.80.134:8080/stream/video/mjpeg"></iframe>	
+				</div>	
+			</div>
+			<div class="row">
+				<div class="col">
+					<h3 style="color:#DFA995">nodeMCU</h3>
+					<h4 style="color:#7b7b7b">LOCAL</h4>
+					<iframe style="width: 100%" src="http://192.168.0.240:2740"></iframe>	
+				</div>
+			</div>
+			<div class="row">
+				<div class="col">
+					<h3 style="color:#DFA995">nodeMCU</h3>
+					<h4 style="color:#7b7b7b">REMOTE</h4>
+					<iframe style="width: 100%" src="http://181.44.80.134:2740"></iframe>	
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-3" style="width:33%">	
+					<h4>NC260 LOCAL mjpeg</h4>
+					<img src="http://admin:8612144@192.168.0.19:8080/stream/video/mjpeg" style="width:50%">
+				</div>	
+				<div class="col-sm-3" style="width:33%">	
+					<h4>NC 200 REMOTE VIA img TAG</h4>
+					<img src="http://admin:QWRtaW4=@181.44.80.134:8080/stream/getvideo" style="width:33%">
+				</div>	
+				<div class="col-sm-3" style="width:33%">	
+					<h4>NC200 LOCAL VIA img TAG</h4>
+					<img src="http://admin:QWRtaW4=@192.168.0.172:8080/stream/getvideo" style="width:50%">
+				</div>	
+			</div>	
+			<div class="row">
+				<div class="col-sm-3" style="width:33%">	
+					<h4>NC260 LOCAL WEB-SITE</h4>
+					<embed>
+						<iframe src="https://www.tplinkcloud.com/admin.php"></iframe>
+					</embed>
+				</div>	
+				<div class="col-sm-3" style="width:33%">	
+					
+				</div>	
+				<div class="col-sm-3" style="width:33%">	
+					
+				</div>	
+			</div>	
+		</div><!--container-->	
+	</body>

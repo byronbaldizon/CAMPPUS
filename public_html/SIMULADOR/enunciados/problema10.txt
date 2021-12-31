@@ -1,0 +1,2 @@
+Los gráficos siguientes representan la posición (parábola) y la velocidad en función del tiempo de una partícula que sigue una trayectoria rectilínea.
+Entonces, los valores de x1 y del instante t2 son, respectivamente:!8 m y 8 seg!4 m y 4 seg!8 m y 4 seg!4 m y 8 seg!Se necesita conocer el valor de la aceleración para resolverlo.!16 m y 4 seg!

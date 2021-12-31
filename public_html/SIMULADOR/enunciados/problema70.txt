@@ -1,0 +1,14 @@
+Una barra maciza de sección uniforme, está conectada entre dos fuentes térmicas que se encuentran a distintas temperaturas constantes, y conduce una potencia calórica de 100W.  Se corta la barra por la mitad, obteniendo dos barras la mitad de lagas que la original y se las conecta entre las misma fuentes térmicas que antes.  Entonces, la nueva potencia total conducida por el conjunto es, en W:
+
+
+
+
+
+
+
+
+
+
+
+
+!25!200!50!400!100!800!

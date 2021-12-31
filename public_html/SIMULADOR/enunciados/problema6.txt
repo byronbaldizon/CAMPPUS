@@ -1,0 +1,1 @@
+﻿Un vehículo frena con aceleración constante y cuando se detiene, comienza a moverse en sentido contrario al que lo hacía antes , con una aceleración también constante de módulo menor a la del frenado.  ¿Cuál de los gráficos de velocidad en función del tiempo representa mejor ese movimiento?!1!2!3!4!5!6!

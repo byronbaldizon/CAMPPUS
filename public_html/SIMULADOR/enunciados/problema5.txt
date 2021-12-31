@@ -1,0 +1,3 @@
+﻿Un vehículo se desplaza por un camino recto, como se indica en la representación de velocidad en función del tiempo de la figura. 
+a) Qué distancia  recorre e entre 0 y 3 segundos?
+b) Cuál es su aceleración media entre 0 y 3 segundos?!1.67 metros y 17,5 m/s²!17,5 metros y -1.67 m/s²!3.33 metros y 6,67 m/s²!33,3 metros y 6,67 m/s²!5,33 metros y 1,67 m/s²!17,5 metros y (5/3) m/s²!

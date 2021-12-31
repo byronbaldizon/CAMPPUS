@@ -1,0 +1,1 @@
+Un refrigerador recibe en un ciclo de trabajo 836 J y extrae del congelador 200 cal.  Entonces, en cada ciclo la cantidad de calor (en calorías) que el refrigerador cede al ambiente es de !200!400!636!no se puede calcular porque se necesita saber si el ciclo es reversible o irreversible!300!es cero porque el trabajo es igual al calor extraído!

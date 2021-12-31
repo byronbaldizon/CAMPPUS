@@ -1,0 +1,1 @@
+Una máquina frigorífica opera absrbiendo en cada ciclo 400 J de una fuente que se encuentra a una temperatura T.  Si la temperatura del ambiente es (3/2)T, el trabajo mínimo (en Joule) que debe recibir el sistema (máquina) por ciclo para que sea factible es:!100!400!500!25!200!3600!

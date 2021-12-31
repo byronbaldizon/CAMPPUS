@@ -1,0 +1,1 @@
+Un cubo de 10 cm de lado emite 60 W en forma de radiación cuando su temperatura es de 80°C.  Si se lo parte en tres pedazos idénticos efectuando cortes en planos paralelos a su base y se separan los pedazs, la potencia emitida total, expresada en Watt, ahora será:!120!60!80!100!20!180!

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="manifest" href="site.webmanifest">
+        <link rel="apple-touch-icon" href="icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <!-- bootstrap -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        
+    </head>
+    <style>
+    	
+    	body{
+    		margin:0;
+    		padding:0;    		
+    	}
+
+		p{
+			font-size: 16px;
+			font-style: sans-serif;
+
+		}
+		.column-left{
+			border: solid 1px lightblue;
+			border-radius: 10px;
+			background-color: #F6F6F6;
+		}
+		ul{
+			list-style-type: none;
+		}
+		hr{
+			background-color:lightblue;
+		}
+		#indice{
+			border:solid 1px lightblue;
+			background-color: #F8F9FA;
+			color:#0080ff;
+		}
+		#formula{
+			font-size: 36px;
+			text-align: center;
+			background-color: whitesmoke;
+		}
+		#titulo-indice{
+			color:black !important;
+			font-weight: bold;
+		}
+    </style>
+    <body>
+    	
+    	<div class="container mt-4">
+    		<nav class="navbar navbar-inverse">
+				  <div class="container-fluid">
+				    <div class="navbar-header">
+				      <a class="navbar-brand" href="#">WikiCBC</a>
+				    </div>
+				    <ul class="nav navbar-nav">
+				      <li class="active"><a href="#"></a></li>
+				      <li><a href="#"></a></li>
+				      <li><a href="#"></a></li>
+				    </ul>
+				    <form class="navbar-form navbar-right" action="">
+				      <div class="input-group">
+				        <input type="text" class="form-control" placeholder="Buscar" name="search">
+				        <div class="input-group-btn">
+				          <button class="btn btn-default" type="submit">
+				            	<i class="lni lni-search-alt"></i>
+				          </button>
+				        </div>
+				      </div>
+				    </form>
+				  </div>
+				</nav>
+    		<div class="row">
+    			<div class="column-left col-lg-2">
+    				<img class="img-responsive pt-4" src="https://www.croppers.com.ar/asset/img/uploads/1520317564891_cerebro.png" alt=""width="100" height="100" >
+    				<h3 class="mt-4">WikiCBC</h3>
+    				<ul>
+    					<li>ARTICULOS</li>
+    					<li><a href="01-Temperatura-y-Calor.html">Temperatura y calor.</a></li>
+    					<li><a href="02-Estados-de-la-materia.html">Estados de la materia.</a></li>
+    				    <li><a href="03-Las-formulas-de-la-calorimetría.html">Las fórmulas de la calorimetría.</a></li>
+    				    <li><a href="04-Datos-calorimetricos-del-agua.html">Datos calorimétricos del agua.</a></li>
+    				    <li><a href="05-El-diagrama-temperatura-calor.html">El diagrama temperatura-calor.</a></li>
+    				    <li><a href="06-El-calorímetro.html">El calorímetro.</a></li>
+    				    <li><a href="07-Conduccion-de-calor.html">Conducción de calor.</a></li>
+    				    <li><a href="08-Radiacion-de-calor.html">Radiación de calor.</a></li>
+    				    <li><a href="09-Conveccion-de-calor.html">Convección de calor.</a></li>
+    				    <li><a href="10-Primer-principio-de-la-termodinamica.html">Primer-principio-de-la-termodinamica.</a></li>
+    				    <li><a href="11-Termodinamica-de-los-gases-ideales.html">Termodinámica de los gases ideales.</a></li>
+    				</ul>
+    			</div>
+    			<div class="col-lg-10">
+    				<h1>Bienvenidos a WikiCBC</h1>
+    				<h6>La Enciclopedia Digital</h6>   
+			        <H2>Las Fórmulas de la Calorimetría</H2>
+			        <hr>
+			        <p>Para calcular la cantidad de calor necesaria para cambiar la temperatura o para calcular la cantidad de calor para provocar un determinado cambio de estado tenemos las fórmulas que se mencionan a continuación:
+			        <div class="row">
+						<div class="col-lg-3 ml-3" id="indice">
+							<h6 class="text-center pt-2 mt-2" id="titulo-indice">Indice</h6>
+							<ul>
+								<li>Cambios de Temperatura</li>
+								<li>Cambios de Estado</li>
+							</ul>
+						</div>	
+						<div class="col-lg-10">
+							
+			        <h4 class="mt-2">Cambios de temperatura</h4>
+			        <p id="formula">Q=C<sub>e</sub>m &Delta;T</p>
+			        <div class="row flex justify-content-center">
+				        <div class="table-responsive-sm text-center">
+				        	<table class="table table-bordered text-center">
+				        		<thead class="table-secondary text-center">
+				        			<tr class="text-center">
+				        				<th>SIMBOLO</th><th>NOMBRE</th><th>UNIDAD</th>
+				        			</tr>
+				        		</thead>
+				        		<tbody>
+				        			<tr>
+				        				<td>Q</td><td>calor</td><td>caloría</td>
+				        			</tr>
+				        			<tr>
+				        				<td>Ce</td><td>calor específico</td><td>caloría/(gramo ºC)</td>
+				        			</tr>
+				        			<tr>
+				        				<td>m</td><td>masa</td><td>gramo</td>
+				        			</tr>
+				        			<tr>
+				        				<td>&Delta; T</td><td>diferencia de temperatura</td><td>ºC</td>
+				        			</tr>
+				        		</tbody>
+				            </table>
+				        </div>
+				    </div>    			        	
+			        <h4 class="mt-4">Cambios de Estado</h4>
+			        <p id="formula">Q=L m</p>
+			        <div class="row flex justify-content-center">
+				        <div class="table-responsive-sm text-center">
+				        	<table class="table table-bordered text-center">
+			        			<thead class="table-secondary">
+			        				<tr>
+			        					<th>SIMBOLO</th><th>NOMBRE</th><th>UNIDAD</th>
+			        				</tr>
+			        			</thead>
+			        			<tbody>
+			        				<tr>
+			        					<td>Q</td><td>calor</td><td>caloría</td>
+			        				</tr>
+			        				<tr>
+			        					<td>L</td><td>calor latente por unidad de masa</td><td>caloría/gramo</td>
+			        				</tr>
+			        				<tr>
+			        					<td>m</td><td>masa</td><td>gramo</td>
+			        				</tr>
+			        			</tbody>
+				        	</table>
+				        </div>	     
+				    </div>      		
+							
+						</div>		        	
+			        </div>
+ 			        
+			        
+			    </div>
+    		</div><!--row-->
+    		<div class="row">
+				<p class="text-justify footer"><sub>Todo el contenido puede ser usado sin autorización expresa. Los autores no se hacen responsables por el mal uso del contenido de este sitio. Correcciones, ampliaciones, comentarios al mail info@camppus.com.ar</sub></p>
+			</div><!--footer-->      		
+    	</div><!--container-->
+    	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </body>
+</html>

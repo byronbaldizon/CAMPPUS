@@ -1,0 +1,1 @@
+El gráfico adjunto representa las velocidades en función del tiempo para un objeto que se desplaza con trayectoria rectilínea.  Si para el instante t=0 pasaba por el origen del sistema de referencia, el tiempo para el cual se encontraba más alejado de dicha posición fue a los:!3 seg!1 seg!5 seg!7 seg!9 seg!11 seg!

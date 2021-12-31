@@ -1,0 +1,3 @@
+Un refrigerador recibe trabajo a razón de 370W de potencia y extrae del congelador 21,2 kcal/min.  
+a. Calcular cuánto calor cede al ambiente en una hora, suponiendo que la máquina realiza un número entero de ciclos en ese lapso.
+b.Calcular la eficiencia del refrigerador.!1,85 kW h y 4!1,85 kcal y 4!1,85 kJ y 3!1,85 kW h y 7!2,85 kW h y 2!2,85 kW h y 1!

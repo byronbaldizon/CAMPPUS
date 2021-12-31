@@ -1,0 +1,1 @@
+Una barra cilíndrica conduce el calor entre dos fuentes a 100°C y 20°C a razón de 15 cal/seg.  Si se cambia esta barra por una del doble de radio, ¿cuáles deben ser las nuevas temperaturas, en °C, de las fuentes para que el flujo de calor siga siendo el mismo?!120 y 80!120 y 100!120 y 60!120 y 30!120 y 0!Las mismas que antes!

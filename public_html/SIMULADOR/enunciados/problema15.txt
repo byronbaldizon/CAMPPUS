@@ -1,0 +1,1 @@
+Un vehículo parte del reposo en una ruta rectilínea.  Al principio acelera, para luego continuar con velocidad constante y finalmente frena hasta detenerse. ¿Cuál de los siguientes gráficos de posición en función del tiempo podría describir ese movimiento?!A!B!C!D!E!F!

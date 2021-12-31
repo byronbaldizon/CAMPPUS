@@ -1,0 +1,2 @@
+Un mol de gas ideal monoatómico se expansiona isotérmicamente desde el esado 1 de 3 atm de presión y volumen igual a 1 litro, hasta una presión de 1 atm.  Luego se calienta a volumen constante hasta que su presión es de 2 atm y la variación de energía interna es de 912 Joule.  Calcule el calor de todo el proceso, expresado en atm-litro
+ !-12,30!12,30 !9!-9!3,3!-3,3!

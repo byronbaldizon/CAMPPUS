@@ -1,0 +1,2 @@
+A un cuerpo de 5 kg que se encuentra en reposo sobre un plano horizontal, sin rozamiento, se le aplica una fuerza constante de 25 N que forma un ángulo de 37 grados respecto de la horizontal.  Luego de 10 segundos, se suprime dicha fuerza. 
+Calcule la distancia recorrida por el cuerpo mientras tuvo aplicada la fuerza de 25 N.  Exprese su resultado en metros.!100 !300 !200 !400 !250 !125 !

@@ -1,0 +1,1 @@
+El gráfico representa la velocidad de un móvil en función del tiempo.  Sabiendo que entre 0 y t1 recorre 30 m, la fuerza resultante sobre el móvil es nula en los instantes:!t = 3 seg!t = 6 seg!t = 8 seg!t > 9 seg!6 seg < t < 9 seg!t > 6 seg!

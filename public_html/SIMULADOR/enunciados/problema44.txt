@@ -1,0 +1,2 @@
+Dos fragmentos, A y B, intercambian calor dentro de un calorímetro adiabático hasta alcanzar el equilibrio térmico, como muestra el gráfico.  La masa del fragmento A es 100 gramos.
+Entonces, el calor específico del material A y la cantidad mínima de hielo a 0°C que habría que agregar para llevar ambos materiales a 0°C, serían, respectivamente:!1 cal/g°C y 125 g!3 cal/g°C y 300 g!4 cal/g°C y 200 g!2 cal/g°C y 225 g!5 cal/g°C y 275 g!1 cal/g°C y 50 g!

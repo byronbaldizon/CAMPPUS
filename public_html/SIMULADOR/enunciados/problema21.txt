@@ -1,0 +1,2 @@
+Un ascensor ubicado a 40 metros de altura, comienza a descender con aceleración constante, partiendo del reposo y alcanzando una velocidad de 5 m/s al cabo de descender 25 m.  Luego continúa su descenso con velocidad constante de 5 m/s, hasta llegar a la planta baja.
+Cuánto tiempo tardó en bajar los primeros 25 metros?!5 segundos!10 segundos!30 segundos!25 segundos!20 segundos!15 segundos!

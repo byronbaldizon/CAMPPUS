@@ -1,0 +1,5 @@
+Dentro de un ascensor hay una balanza y sobre ella hay una masa "m".  En sucesivas etapas, la balanza indica:
+1)  (2/3)mg
+2) (4/3)mg
+Entonces, podría estar ocurriendo que el ascensor:
+(NOTA: a es el módulo de la aceleración)!1) sube acelerando con a = g/3 y 2) sube frenando con a= g/3.!1) sube acelerando con a = 2g/3 y 2) sube frenando con a= 4g/3.!1) baja acelerando con a = g/3 y 2) baja frenando con a= g/3.!1) baja acelerando con a = 2g/3 y 2) baja frenando con a= 4g/3.!1) baja frenando con a = g/3 y 2) baja acelerando con a= g/3.!1) sube frenando con a = 4g/3 y 2) sube acelerando con a= 2g/3.!

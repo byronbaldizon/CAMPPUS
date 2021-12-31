@@ -1,0 +1,1 @@
+Se lanza verticalmente hacia arriba un cuerpo con una velocidad inicial "Vo", de modo que llega hasta una altura "h".  Cuando pasa por un punto que está a una altura de "h/2" su velocidad, en módulo, es  ("g" es el módulo de la aceleración gravitacional) :!Vo/2g!Vo/3!Vo/1,41!Vo/4!Vo/h!Vo/2!

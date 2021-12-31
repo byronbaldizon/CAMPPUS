@@ -1,0 +1,4 @@
+Una caja de 250 kg está en reposo sobre una superficie horizontal. Cuando se le aplica una fuerza de 70 kgf paralela a la superficie durante 4 segundos recorre, en ese lapso, 3,2 metros.  Determinar, para la caja:
+a) La velocidad al cabo de esos 4 segundos.
+b)La fuerza de rozamiento que actúa sobre ella.
+!a) v(4s)= 1,6 m/s b) Froz= 600N!a) v(4s)= 16 m/s b) Froz= 800N!a) v(4s)= 1,6 m/s b) Froz= 300N!a) v(4s)= 0,6 m/s b) Froz= 500N!a) v(4s)= 1,9 m/s b) Froz= 400N!a) v(4s)= 2,6 m/s b) Froz= 100N!

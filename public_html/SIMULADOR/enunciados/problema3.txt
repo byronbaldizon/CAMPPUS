@@ -1,0 +1,1 @@
+Dos cohetes espaciales se dirigen uno hacia el otro.  Uno va a 42.000 km/h y el otro a 18.000 km/h.  Al comienzo los separa a una distancia de 23.784 km.  Calcule la distancia a la cual se encuentra uno de otro un minuto antes de producirse el encuentro.!300 km!1000 m!10.000 m!1000 km!500 km!1300 km!

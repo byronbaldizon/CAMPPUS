@@ -1,0 +1,1 @@
+Dos objetos A y B tienen igual tamaño y forma.  La emisividad de A es 0,9 y la de B es 0,1.  Sobre esos objetos y la radiación se puede afirmar que:!A emite más y absorbe menos que B!A emite más y absorbe más que B!A emite menos y absorbe menos que B!A emite menos y absorbe más que B!A emite más y absorbe lo mismo que B!A emite menos y absorbe lo mismo que B.!

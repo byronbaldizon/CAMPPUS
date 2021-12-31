@@ -1,0 +1,2 @@
+En un recipiente adiabático ideal que contiene agua a 34°C se introducen 500 g de un metal fundido que se encuentra a 200°C.  La evolución de la temperatura del metal en función del módulo del calor cedido se muestra en la figura.
+Entonces, el calor específico del metal en estado sólido y la cantidad de agua que contiene el recipiente si la temperatura de equilibrio es de 50°C, serían, respectivamente:!0,01 cal/g°C y 230 g!0,08 cal/g°C y 220 g!0,04 cal/g°C y 250 g!0,09 cal/g °C y 230 g!0,10 cal/g°C y 220 g!0,10 cal/g°C 250 g!

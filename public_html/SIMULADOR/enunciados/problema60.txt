@@ -1,0 +1,1 @@
+El gráfico muestra la temperatura a lo largo (eje x) de una barra  recta de sección uniforme y de longitud L, formada por dos materiales denominados 1 y 2.  El primer material (desde x=0 hasta x=L / 2) tiene conductividad k1 y el siguiente k2.  Entonces, se cumple que:!k1=2k2!k1=4k2!k1=k2/2!k1=k2/4!k1=k2!k1=-k2!

@@ -1,0 +1,7 @@
+Un niño quiere mover un bloque que está apoyado sobre el piso, ejerciendo una fuerza horizontal sobre éste.  La masa del bloque es mayor que la masa del niño.  Despreciando el rozamiento, diga cuáles afirmaciones son verdaderas.
+1. El niño podrá mover al bloque si ejerce sobre él una fuerza que supere el peso del mismo.
+2.Por el principio de "acción y reacción" el bloque ejercerá una reacción a la fuerza aplicada y ni el niño ni el bloque se moverán a menos que se ejerza una fuerza exterior a ambos.
+3.El niño puede mover el bloque pues, por el principio de "acción y reacción", la reacción a la fuerza peso (fuerza normal) tiene el mismo módulo pero sentido opuesto y ambas se compensan.
+4.Por el principio de inercia, existe una fuerza mínima que debe ejercer que depende de la masa del bloque para que éste pueda vencer su inercia.
+5.El bloque se moverá cualquiera que sea el valor de la fuerza horizontal que el niño ejerza.
+6.El bloque no acelera verticalmente a pesar de su peso debido a la interacción con el piso.!2 y 6!2 y 3!1 y 4!5 y 6!4 y 6!1 y 6!

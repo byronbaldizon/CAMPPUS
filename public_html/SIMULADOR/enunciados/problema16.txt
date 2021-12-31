@@ -1,0 +1,1 @@
+El dibujo representa 5 cuerpos lanzados antes con diferentes velocidades.  Indique cuál de ellos alcanzó mayor altura. (NOTA: entre las líneas punteadas hay un metro de separación).!A!B!C!D!E!F!

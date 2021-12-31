@@ -1,0 +1,2 @@
+Un cuerpo parte del reposo y se mueve con una aceleración e función del tiempo que se muestra en el gráfico adjunto.
+Calcular el desplazamiento, la velocidad media y la distancia recorrida entre 0 y 9 segundos.!18 m, 18 m, -2m/s!-18 m, 18 m, -2m/s!9 m, -9 m, 2 m/s!18 m, 18 m, 2m/s!-9 m, -18 m, -4m/s!-18 m, -18 m, 4m/s!

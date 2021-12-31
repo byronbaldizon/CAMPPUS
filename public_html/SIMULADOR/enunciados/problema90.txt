@@ -1,0 +1,2 @@
+Tres moles de un gas ideal monoatómico poseen un volumen de 10 metros cúbicos a una temperatura de 400 K.  Evoluciona a volumen constante recibiendo del medio 4457 cal y después lo hace a presión constante cediendo al medio 31200 J.  Calcular el trabajo y la variación de la energía interna durante la evolución y diga si aumenta o disminuye.!L=31379,6 J y la U aumenta en 65715 J!L=97095 J y la U disminuye en 31379,6 J
+!L=31379,6 J y la U permanece constante!L = 0 y U disminuye en 97095 J!L=0 y U permanece constante!L=65715 J y U disminuye en 65715 J!

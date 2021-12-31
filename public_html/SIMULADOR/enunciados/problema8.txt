@@ -1,0 +1,1 @@
+Un objeto parte del reposo desde el orígen, aumentando su velocidad uniformemente.  A continuación el objeto sigue su movimiento a velocidad constante en el mismo sentido en el que venía moviéndose.  Indique cuál de los siguientes gráficos de posición-tiempo corresponde al movimiento de dicho cuerpo.!B!A!C!D!E!F!

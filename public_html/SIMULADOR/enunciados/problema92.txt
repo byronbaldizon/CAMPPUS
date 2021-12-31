@@ -1,0 +1,2 @@
+Un gas ideal monoatómico realiza un proceso cíclico en forma reversible como el que se indica en la figura.
+Entonces el trabajo realizado y la variación de la energía interna en la evolución ABC valen, respectivamente (en atm-dm³):!126 y -64!cero y 126!-256 y 64!-126 y -64!-64 y 256!64 y 126!

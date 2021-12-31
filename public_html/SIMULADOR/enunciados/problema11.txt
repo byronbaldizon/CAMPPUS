@@ -1,0 +1,1 @@
+Para conocer la aceleración de la gravedad en un planeta sin atmósfera, un astronauta lanza un objeto verticalmente hacia arriba con una velocidad de 20 m/s.  El objeto vuelve a su mano 10 segundos después.  Entonces, la aceleración de la gravedad en el planeta expresada en relación a la gravedad "g" en la superficie terrestre es:!2g!g!0,5g!0,2g!0,8g!0,4g!

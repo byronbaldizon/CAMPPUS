@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="manifest" href="site.webmanifest">
+        <link rel="apple-touch-icon" href="icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <!-- bootstrap -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <!--line icons-->
+        <link rel="icon" type="image/svg+xml" href="demo/favicon.svg">
+        <!--Google Fonts-->
+        <!--Archivo Narrow Font-->
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap" rel="stylesheet"> 
+    </head>
+    <style>
+    	
+    	body{
+    		margin:0;
+    		padding:0;    		
+    	}
+
+		p{
+			font-size: 16px;
+			font-style: sans-serif;
+
+		}
+		.column-left{
+			border: solid 1px lightblue;
+			border-radius: 10px;
+			background-color: #F6F6F6;
+		}
+		ul{
+			list-style-type: none;
+		}
+		hr{
+			background-color:lightblue;
+		}
+		
+		#indice{
+			border:solid 1px lightblue;
+			background-color: #F8F9FA;
+			color:#0080ff;
+
+		}
+		#titulo-indice{
+			color:black !important;
+			font-weight: bold;
+		}
+		#formula{
+			font-size: 36px;
+			text-align: center;
+			background-color: whitesmoke;
+
+		}
+    </style>
+    <body>
+    	<div class="container mt-4">
+    		
+    			<nav class="navbar navbar-inverse">
+				  <div class="container-fluid">
+				    <div class="navbar-header">
+				      <a class="navbar-brand" href="/localhost/public/CAMPPUS-04-2021/index.html">Inicio</a>
+				    </div>
+				    <ul class="nav navbar-nav">
+				      <li class="active"><a href="#"></a></li>
+				      <li><a href="#"></a></li>
+				      <li><a href="#"></a></li>
+				    </ul>
+				    <form class="navbar-form navbar-right" action="">
+				      <div class="input-group">
+				        <input type="text" class="form-control" placeholder="Buscar" name="search">
+				        <div class="input-group-btn">
+				          <button class="btn btn-default" type="submit">
+				            	<i class="lni lni-search-alt"></i>
+				          </button>
+				        </div>
+				      </div>
+				    </form>
+				  </div>
+				</nav>
+    		
+    		<div class="row">
+    			<div class="column-left col-lg-2">
+    				<img class="img-fluid pt-4" src="ARTICULOS/imagenes/cerebrowiki.png" alt=""width="100" height="100" >
+    				<h3 class="mt-4">WikiCBC</h3>
+    				<ul>
+    					<li>ARTICULOS</li>
+    					<li><a href="01-Temperatura-y-Calor.html">Temperatura y calor.</a></li>
+    					<li><a href="02-Estados-de-la-materia.html">Estados de la materia.</a></li>
+    				    <li><a href="03-Las-formulas-de-la-calorimetría.html">Las fórmulas de la calorimetría.</a></li>
+    				    <li><a href="04-Datos-calorimetricos-del-agua.html">Datos calorimétricos del agua.</a></li>
+    				    <li><a href="05-El-diagrama-temperatura-calor.html">El diagrama temperatura-calor.</a></li>
+    				    <li><a href="06-El-calorímetro.html">El calorímetro.</a></li>
+    				    <li><a href="07-Conduccion-de-calor.html">Conducción de calor.</a></li>
+    				    <li><a href="08-Radiacion-de-calor.html">Radiación de calor.</a></li>
+    				    <li><a href="09-Conveccion-de-calor.html">Convección de calor.</a></li>
+    				    <li><a href="10-Primer-principio-de-la-termodinamica.html">Primer-principio-de-la-termodinamica.</a></li>
+    				    <li><a href="11-Termodinamica-de-los-gases-ideales.html">Termodinámica de los gases ideales.</a></li>
+    				</ul>
+    			</div>
+    			<div class="col-lg-10">
+    				<div id="bienvenida">
+    					<h1>Bienvenidos a WikiCBC</h1>
+    				</div>
+    				<h6>La Enciclopedia Digital</h6><br>   
+			        <H2>Termodinámica de los gases ideales</H2>
+			        <hr>
+			        Si aplicamos el primer principio de la Termodinámica a procesos que involucran gases ideales obtendremos fórmulas que permiten calcular el la variación de la energía interna, el calor y el trabajo de dichos procesos.
+			        <div class="row mt-2">
+						<div class="col-lg-3 ml-3" id="indice">
+							<h6 class="text-center pt-2 mt-2" id="titulo-indice">Indice</h6>
+							<ul>
+								<li>El modelo del gas ideal</li>
+								<li>Capacidades caloríficas del gas ideal</li>
+								<li>Las fórmulas para los procesos de gas ideal</li>
+							</ul>
+						</div>	
+						<div class="col-10">
+							
+						</div>		        	
+			        </div>
+
+ 			        <h2 class="mt-2">El modelo del gas ideal.</h2>
+			        <hr>
+			        <p class="text-justify">Un gas ideal puede identificarse de diversas maneras entre las que tenemos:</p>
+			        <h3>1. La ecuación de estado</h3>
+			        <p class="text-justify">Decimos que una sustancia se comporta como gas ideal si cumple con la ecuación de estado de los gases ideales:</p>
+			        <p id="formula">PV = nRT</p>
+			        <p class="text-justify">Donde
+			        	<ul>
+			        		<li>
+			        			P = presión (atmósfera)
+                            </li>
+                            <li>
+			        			V = volumen (litro)
+                            </li>
+                            <li>
+			        			n = número de moles (mol)
+                            </li>
+                            <li>
+			        			R = constante universal de los gases ideales = 0,082 atm litro /(mol K)
+                            </li>
+                            <li>
+			        			T = temperatura absoluta (Kelvin)
+                            </li>
+			        	</ul>
+			        </p>
+			        <h3>2. Energía interna</h3>
+			        <p class="text-justify">En un gas ideal la energía interna sólo depende sólo de su temperatura. Como consecuencia de esto, si un gas ideal experimenta un proceso isotérmico su energía interna no cambiará.
+			        </p>
+			        <h3>3. Composición</h3>
+			        <p class="text-justify">Un sistema se comportará como gas ideal si está compuesto por partículas infinitamente pequeñas cuyo volumen puede despreciarse y que no interaccionan entre sí.</p>
+
+			        <h2 class="mt-2">Capacidades caloríficas de los gases ideales</h2>
+			        <hr>
+			        <p class="text-justify">La cantidad de calor necesaria para elevar en 1ºC la temperatura de un mol de gas ideal dependerá del proceso que experimente el gas ideal.  Estas cantidades de calor son:</p>
+			        <ul>
+			        	<li>
+			        		<span style="font-size:24px;"><b>C<sub>p =</sub></b></span>Capacidad calorífica a presión constante, <b>caloría/(mol ºC)</b>
+			        	</li>
+			        	<li>
+			        		<span style="font-size:24px;"><b>C<sub>v =</sub></b></span>Capacidad calorífica a volumen constante, <b>caloría/(mol ºC)</b>
+			        	</li>
+			        </ul>
+			        <p class="text-justify">El valor de dichas constantes depende del tipo de gas ideal que se esté considerando.  Dichos valores son: </p>
+			        <ul style="display:block; text-align:center">
+			        	<li>
+			        		<span style="font-size:20px">Gas ideal monoatómico: Cp=(5/2)R y Cv=(3/2)R</span><br />
+			        		<span style="font-size:20px;">Gas ideal diatómico: Cp=(7/2)R y Cv=(5/2)R</span>
+			        	</li>
+			       	</ul>
+
+			       	<h2 class="mt-2">Las fórmulas para los procesos de gas ideal</h2>
+			        <hr>
+			        <p class="text-justify">Las fórmulas para calcular <b>&Delta;U</b>, <b>Q</b> y <b>L</b> de cada proceso de gas ideal se tienen las siguientes fórmulas:</p>
+
+			        <p class="text-justify">
+			        	<table class="table table-bordered" id="tablaPropiedadesAgua">
+				    <thead>
+				      <tr class="table-secondary">
+				        <th class="text-center">Proceso</th>
+				        <th class="text-center">&Delta;U</th>
+				        <th class="text-center">Q</th>
+				        <th class="text-center">L</th>
+				      </tr>
+				    </thead>
+				    <tbody>
+				      <tr class="table-primary">
+				        <td>Isotérmico</td>
+				        <td>0</td>
+				        <td>nRT ln(Vf/Vi) ó <br />PV ln(Vf/Vi)</td>
+				        <td>nRT ln(Vf/Vi) ó <br />PV ln(Vf/Vi)</td>
+				      </tr>
+				      <tr class="table-primary">
+				        <td>Isobárico</td>
+				        <td>nCv&Delta;T</td>
+				        <td>nCp&Delta;T</td>
+				        <td>P&Delta;V</td>
+				      </tr>
+				      <tr class="table-primary">
+				        <td>Isocórico</td>
+				        <td>nCv&Delta;T</td>
+				        <td>nCv&Delta;T</td>
+				        <td>0</td>				        
+				      </tr>
+				      <tr class="table-primary">
+				        <td>Adiabático</td>
+				        <td>nCv&Delta;T</td>
+				        <td>0</td>
+				        <td>-nCv&Delta;T</td>				        
+				      </tr>
+				    </tbody>
+				  	</table>	
+			        </p>
+			        
+
+
+
+
+			    </div>
+    		</div><!--row-->
+    		<div class="row">
+				<p class="text-justify footer"><sub>Todo el contenido puede ser usado sin autorización expresa. Los autores no se hacen responsables por el mal uso del contenido de este sitio. Correcciones, ampliaciones, comentarios al mail info@camppus.com.ar</sub></p>
+			</div><!--footer-->    		
+    	</div><!--container-->
+    	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </body>
+</html>
